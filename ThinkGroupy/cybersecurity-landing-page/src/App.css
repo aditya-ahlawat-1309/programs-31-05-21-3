@@ -1,0 +1,11 @@
+.App{
+ /* background-image: url("https://deandorton.com/wp-content/uploads/2020/04/Header-background.png"); */
+ background-image: url("https://www.asmag.com/upload/pic/case/62636.759375.jpg");
+ background-repeat: no-repeat;
+ background-position: left;
+ background-size: cover;
+  width:100%;
+  height:100vh;
+  display: flex;
+  
+}

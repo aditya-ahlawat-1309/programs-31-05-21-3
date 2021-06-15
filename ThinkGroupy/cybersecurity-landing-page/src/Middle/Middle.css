@@ -1,0 +1,25 @@
+.border{
+    height:170px;
+    width:250px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-top: -30px;
+     background-color: rgb(58, 204, 223);
+}
+.border_blue{
+    height:170px;
+    width:250px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-top: -30px;
+    background-color: rgb(29, 168, 223);
+}
+
+.border-2{
+    height:200px;
+    width:535px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 35px;;
+}
